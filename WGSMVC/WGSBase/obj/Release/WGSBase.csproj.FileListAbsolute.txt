@@ -1,0 +1,6 @@
+D:\Shared\WGSANDI\WGSMVC\WGSBase\bin\Release\WGSBase.dll.config
+D:\Shared\WGSANDI\WGSMVC\WGSBase\bin\Release\WGSBase.dll
+D:\Shared\WGSANDI\WGSMVC\WGSBase\bin\Release\WGSBase.pdb
+D:\Shared\WGSANDI\WGSMVC\WGSBase\obj\Release\ResolveAssemblyReference.cache
+D:\Shared\WGSANDI\WGSMVC\WGSBase\obj\Release\WGSBase.dll
+D:\Shared\WGSANDI\WGSMVC\WGSBase\obj\Release\WGSBase.pdb

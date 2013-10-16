@@ -1,0 +1,58 @@
+﻿@using GridMvc.Html
+@model IEnumerable<AppCore.Banks>
+
+@{
+    ViewBag.Title = "Banks";
+}
+
+@helper CustomRenderingOfColumn(string BanksId){
+    
+}
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+<section class="contact">
+<a href="Banks/FormBank">Add Banks</a>
+            @Html.Grid(Model).Columns(columns => 
+                    {
+                        columns.Add(c => c.RekBank).Titled("Rek Bank");
+                        columns.Add(c => c.BankName).Titled("Bank Name");
+                        columns.Add(c => c.Country).Titled("Country");
+                        columns.Add().Encoded(false).Titled("Edit").SetWidth(30)
+                            .Sanitized(false).RenderValueAs(c => @<a href="Banks/EditBank?ID=@c.BankId">Edit</a>);
+                        columns.Add().Encoded(false).Titled("Delete").SetWidth(30)
+                            .Sanitized(false).RenderValueAs(c => @<a href="Banks/DeleteBank?ID=@c.BankId">Delete</a>);
+                    }).WithPaging(5).Sortable(true)
+
+            @*@foreach (var banks in Model){
+                @banks.BankId
+                <a href="Banks/EditBank?ID=@banks.BankName">Edit</a>
+            }*@
+</section>
+
+
+@*<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/Gridmvc.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" />
+    <script src="@Url.Content("~/Scripts/jquery-1.9.1.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/gridmvc.min.js")"></script>
+    <title>Index</title>
+</head>
+<body>
+    <h1>Banks</h1>
+    <hr />
+    <a href="Banks/AddBanks">Add Bank</a>
+    <div style="width:500px;">
+    
+        @Html.Grid(Model).Columns(columns => 
+                    {
+                        columns.Add(c => c.BankId).Titled("Bank Id");
+                        columns.Add(c => c.BankName).Titled("Bank Name").Filterable(true);
+                        columns.Add(c => c.BankCountry).Titled("Country");
+                    }).WithPaging(2).Sortable(true)
+    </div>
+</body>
+</html>*@

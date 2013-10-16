@@ -1,0 +1,176 @@
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WGSMVC.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WGSMVC.pdb
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\Antlr3.Runtime.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.AspNet.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.Core.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\EntityFramework.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\Newtonsoft.Json.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Net.Http.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Net.Http.Formatting.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Net.Http.WebRequest.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Helpers.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Http.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Http.WebHost.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Mvc.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Optimization.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Razor.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.WebPages.Deployment.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.WebPages.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.WebPages.Razor.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WebGrease.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WebMatrix.Data.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WebMatrix.WebData.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\EntityFramework.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\Newtonsoft.Json.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Net.Http.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Net.Http.Formatting.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Net.Http.WebRequest.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Helpers.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Http.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Http.WebHost.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Mvc.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.Razor.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.WebPages.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.WebPages.Deployment.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\System.Web.WebPages.Razor.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WebMatrix.Data.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WebMatrix.WebData.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.AspNet.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.Core.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\obj\Debug\WGSMVC.csprojResolveAssemblyReference.cache
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\obj\Debug\WGSMVC.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\obj\Debug\WGSMVC.pdb
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\AppCore.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WGSBase.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\AppCore.pdb
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\WGSBase.pdb
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSMVC\bin\GridMvc.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WGSMVC.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WGSMVC.pdb
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\Antlr3.Runtime.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\AppCore.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.AspNet.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.Core.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\EntityFramework.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\GridMvc.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\Newtonsoft.Json.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.Formatting.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.WebRequest.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Helpers.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Http.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Http.WebHost.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Mvc.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Optimization.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Razor.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.Razor.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WebGrease.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WebMatrix.Data.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WebMatrix.WebData.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WGSBase.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\AppCore.pdb
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WGSBase.pdb
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\EntityFramework.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\Newtonsoft.Json.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.Formatting.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.WebRequest.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Helpers.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Http.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Http.WebHost.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Mvc.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Razor.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.Razor.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WebMatrix.Data.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\WebMatrix.WebData.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.AspNet.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.Core.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\obj\Debug\WGSMVC.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\obj\Debug\WGSMVC.pdb
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\MySql.Data.dll
+D:\Shared\WGSANDI\WGSMVC\WGSMVC\bin\MySql.Web.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WGSMVC.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WGSMVC.pdb
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\Antlr3.Runtime.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\AppCore.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.AspNet.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.Core.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\EntityFramework.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\GridMvc.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\Newtonsoft.Json.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.Formatting.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.WebRequest.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Helpers.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Http.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Http.WebHost.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Mvc.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Optimization.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Razor.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.Deployment.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.Razor.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WebGrease.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WebMatrix.Data.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WebMatrix.WebData.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WGSBase.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\AppCore.pdb
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WGSBase.pdb
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\EntityFramework.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\Newtonsoft.Json.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.Formatting.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Net.Http.WebRequest.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Helpers.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Http.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Http.WebHost.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Mvc.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.Razor.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.Deployment.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\System.Web.WebPages.Razor.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WebMatrix.Data.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\WebMatrix.WebData.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.AspNet.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.Core.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OAuth.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\share\WGSANDI\WGSMVC\WGSMVC\obj\Debug\WGSMVC.csprojResolveAssemblyReference.cache
+D:\share\WGSANDI\WGSMVC\WGSMVC\obj\Debug\WGSMVC.dll
+D:\share\WGSANDI\WGSMVC\WGSMVC\obj\Debug\WGSMVC.pdb

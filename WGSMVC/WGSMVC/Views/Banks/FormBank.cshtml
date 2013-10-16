@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Banks";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+<section class="contact">
+<form action="SaveBank" method="post">
+<table>
+    <tr>
+        <td>Rek Bank</td>
+        <td>:</td>
+        <td><input type="text" name="txbRekBank" value="@TempData["RekBank"]"/>
+            <input type="hidden" name="txbBankId" value="@TempData["BankId"]"/></td>
+    </tr>
+    <tr>
+        <td>Bank Name</td>
+        <td>:</td>
+        <td><input type="text" name="txbBankName" value="@TempData["BankName"]"/></td>
+    </tr>
+    <tr>
+        <td>Country</td>
+        <td>:</td>
+        <td><input type="text" name="txbCountry" value="@TempData["Country"]"/></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td><input type="submit" value="Submit" /></td>
+    </tr>
+</table>
+</form>
+</section>

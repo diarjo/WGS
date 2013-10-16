@@ -1,0 +1,10 @@
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\bin\WGSService.dll
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\bin\WGSService.pdb
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\obj\Debug\WGSService.dll
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\obj\Debug\WGSService.pdb
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\obj\Debug\WGSService.csprojResolveAssemblyReference.cache
+D:\share\WGSANDI\WGS\WGSService\bin\WGSService.dll
+D:\share\WGSANDI\WGS\WGSService\bin\WGSService.pdb
+D:\share\WGSANDI\WGS\WGSService\obj\Debug\WGSService.csprojResolveAssemblyReference.cache
+D:\share\WGSANDI\WGS\WGSService\obj\Debug\WGSService.dll
+D:\share\WGSANDI\WGS\WGSService\obj\Debug\WGSService.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0fe725c3-c1b9-46a0-af78-ee0dcb9960a6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/WGSDataService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WGSCRUDService.disco" MetadataType="Disco" ID="0eef7970-3482-4ebc-b1bb-734762987482" SourceId="1" SourceUrl="http://localhost/WGSDataService/WGSCRUDService.svc?disco" />
+    <MetadataFile FileName="WGSCRUDService3.xsd" MetadataType="Schema" ID="5557e0da-08a6-405b-b6e9-50f04ab27385" SourceId="1" SourceUrl="http://localhost/WGSDataService/WGSCRUDService.svc?xsd=xsd0" />
+    <MetadataFile FileName="WGSCRUDService.wsdl" MetadataType="Wsdl" ID="2ba2b0aa-0a97-4b98-8b45-11f64c67a456" SourceId="1" SourceUrl="http://localhost/WGSDataService/WGSCRUDService.svc?wsdl" />
+    <MetadataFile FileName="WGSCRUDService.xsd" MetadataType="Schema" ID="5f4b2bda-b15a-49e3-a9a7-5d0fc0fa153f" SourceId="1" SourceUrl="http://localhost/WGSDataService/WGSCRUDService.svc?xsd=xsd1" />
+    <MetadataFile FileName="WGSCRUDService1.xsd" MetadataType="Schema" ID="147c523c-a88b-41ee-ac47-0f9fe60afc44" SourceId="1" SourceUrl="http://localhost/WGSDataService/WGSCRUDService.svc?xsd=xsd2" />
+    <MetadataFile FileName="WGSCRUDService2.xsd" MetadataType="Schema" ID="1651527a-d934-44fe-b4a6-69ceb9fc0a41" SourceId="1" SourceUrl="http://localhost/WGSDataService/WGSCRUDService.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

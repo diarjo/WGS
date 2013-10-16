@@ -1,0 +1,18 @@
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSBase\bin\Debug\WGSBase.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSBase\bin\Debug\WGSBase.pdb
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSBase\obj\Debug\WGSBase.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSBase\obj\Debug\WGSBase.pdb
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSBase\bin\Debug\WGSBase.dll.config
+D:\DIARJO RESEARCH\WEB\WGSMVC\WGSBase\obj\Debug\WGSBase.csprojResolveAssemblyReference.cache
+D:\Shared\WGSANDI\WGSMVC\WGSBase\bin\Debug\WGSBase.dll.config
+D:\Shared\WGSANDI\WGSMVC\WGSBase\bin\Debug\WGSBase.dll
+D:\Shared\WGSANDI\WGSMVC\WGSBase\bin\Debug\WGSBase.pdb
+D:\Shared\WGSANDI\WGSMVC\WGSBase\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared\WGSANDI\WGSMVC\WGSBase\obj\Debug\WGSBase.dll
+D:\Shared\WGSANDI\WGSMVC\WGSBase\obj\Debug\WGSBase.pdb
+D:\share\WGSANDI\WGSMVC\WGSBase\bin\Debug\WGSBase.dll.config
+D:\share\WGSANDI\WGSMVC\WGSBase\bin\Debug\WGSBase.dll
+D:\share\WGSANDI\WGSMVC\WGSBase\bin\Debug\WGSBase.pdb
+D:\share\WGSANDI\WGSMVC\WGSBase\obj\Debug\WGSBase.csprojResolveAssemblyReference.cache
+D:\share\WGSANDI\WGSMVC\WGSBase\obj\Debug\WGSBase.dll
+D:\share\WGSANDI\WGSMVC\WGSBase\obj\Debug\WGSBase.pdb

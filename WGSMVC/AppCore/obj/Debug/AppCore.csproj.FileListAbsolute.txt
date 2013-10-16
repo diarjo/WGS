@@ -1,0 +1,18 @@
+D:\DIARJO RESEARCH\WEB\WGSMVC\AppCore\bin\Debug\AppCore.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\AppCore\bin\Debug\AppCore.pdb
+D:\DIARJO RESEARCH\WEB\WGSMVC\AppCore\obj\Debug\AppCore.dll
+D:\DIARJO RESEARCH\WEB\WGSMVC\AppCore\obj\Debug\AppCore.pdb
+D:\Shared\WGSANDI\WGSMVC\AppCore\bin\Debug\AppCore.dll
+D:\Shared\WGSANDI\WGSMVC\AppCore\bin\Debug\AppCore.pdb
+D:\Shared\WGSANDI\WGSMVC\AppCore\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared\WGSANDI\WGSMVC\AppCore\obj\Debug\AppCore.dll
+D:\Shared\WGSANDI\WGSMVC\AppCore\obj\Debug\AppCore.pdb
+D:\Shared\WGSANDI\WGSMVC\AppCore\bin\Debug\EntityFramework.dll
+D:\Shared\WGSANDI\WGSMVC\AppCore\bin\Debug\EntityFramework.xml
+D:\share\WGSANDI\WGSMVC\AppCore\bin\Debug\AppCore.dll
+D:\share\WGSANDI\WGSMVC\AppCore\bin\Debug\AppCore.pdb
+D:\share\WGSANDI\WGSMVC\AppCore\bin\Debug\EntityFramework.dll
+D:\share\WGSANDI\WGSMVC\AppCore\bin\Debug\EntityFramework.xml
+D:\share\WGSANDI\WGSMVC\AppCore\obj\Debug\AppCore.csprojResolveAssemblyReference.cache
+D:\share\WGSANDI\WGSMVC\AppCore\obj\Debug\AppCore.dll
+D:\share\WGSANDI\WGSMVC\AppCore\obj\Debug\AppCore.pdb

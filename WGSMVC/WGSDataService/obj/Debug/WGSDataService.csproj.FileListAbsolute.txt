@@ -1,0 +1,9 @@
+D:\Shared\WGSANDI\WGSMVC\WGSDataService\bin\WGSDataService.dll
+D:\Shared\WGSANDI\WGSMVC\WGSDataService\bin\WGSDataService.pdb
+D:\Shared\WGSANDI\WGSMVC\WGSDataService\obj\Debug\ResolveAssemblyReference.cache
+D:\Shared\WGSANDI\WGSMVC\WGSDataService\obj\Debug\WGSDataService.dll
+D:\Shared\WGSANDI\WGSMVC\WGSDataService\obj\Debug\WGSDataService.pdb
+D:\share\WGSANDI\WGSMVC\WGSDataService\bin\WGSDataService.dll
+D:\share\WGSANDI\WGSMVC\WGSDataService\bin\WGSDataService.pdb
+D:\share\WGSANDI\WGSMVC\WGSDataService\obj\Debug\WGSDataService.dll
+D:\share\WGSANDI\WGSMVC\WGSDataService\obj\Debug\WGSDataService.pdb

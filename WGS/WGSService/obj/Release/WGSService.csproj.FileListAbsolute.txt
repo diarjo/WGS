@@ -1,0 +1,14 @@
+D:\WGS\WGSService\obj\Release\ResolveAssemblyReference.cache
+D:\WGS\WGSService\bin\WGSService.dll
+D:\WGS\WGSService\bin\WGSService.pdb
+D:\WGS\WGSService\obj\Release\WGSService.dll
+D:\WGS\WGSService\obj\Release\WGSService.pdb
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\bin\WGSService.dll
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\bin\WGSService.pdb
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\obj\Release\WGSService.dll
+D:\DIARJO RESEARCH\WEB\WGS\WGSService\obj\Release\WGSService.pdb
+D:\Shared\WGSANDI\WGS\WGSService\bin\WGSService.dll
+D:\Shared\WGSANDI\WGS\WGSService\bin\WGSService.pdb
+D:\Shared\WGSANDI\WGS\WGSService\obj\Release\ResolveAssemblyReference.cache
+D:\Shared\WGSANDI\WGS\WGSService\obj\Release\WGSService.dll
+D:\Shared\WGSANDI\WGS\WGSService\obj\Release\WGSService.pdb

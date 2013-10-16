@@ -1,0 +1,7 @@
+D:\Shared\WGSANDI\WGSMVC\AppCore\bin\Release\AppCore.dll
+D:\Shared\WGSANDI\WGSMVC\AppCore\bin\Release\AppCore.pdb
+D:\Shared\WGSANDI\WGSMVC\AppCore\obj\Release\ResolveAssemblyReference.cache
+D:\Shared\WGSANDI\WGSMVC\AppCore\obj\Release\AppCore.dll
+D:\Shared\WGSANDI\WGSMVC\AppCore\obj\Release\AppCore.pdb
+D:\Shared\WGSANDI\WGSMVC\AppCore\bin\Release\EntityFramework.dll
+D:\Shared\WGSANDI\WGSMVC\AppCore\bin\Release\EntityFramework.xml
